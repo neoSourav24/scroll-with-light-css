@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scroll with Light Effect</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="logo">Luminous<span>Scroll</span></a>
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <div class="theme-toggle">
+                <i class="fas fa-moon"></i>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Hero Section -->
+        <section id="home" class="hero">
+            <div class="hero-content">
+                <h1 class="hero-title">Scroll with <span class="highlight">Light</span></h1>
+                <p class="hero-subtitle">A CSS-only visual experience where scrolling reveals light effects</p>
+                <a href="#about" class="scroll-indicator">
+                    <span>Explore</span>
+                    <i class="fas fa-chevron-down"></i>
+                </a>
+            </div>
+            <div class="light-spotlight"></div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="section about">
+            <div class="container">
+                <h2 class="section-title">About This Effect</h2>
+                <div class="content-grid">
+                    <div class="content-card">
+                        <div class="card-icon">
+                            <i class="fas fa-lightbulb"></i>
+                        </div>
+                        <h3>CSS Only</h3>
+                        <p>This project uses pure CSS to create light effects that respond to scrolling. No JavaScript
+                            required!</p>
+                        <div class="light-effect"></div>
+                    </div>
+                    <div class="content-card">
+                        <div class="card-icon">
+                            <i class="fas fa-code"></i>
+                        </div>
+                        <h3>Creative Design</h3>
+                        <p>Using CSS gradients, shadows, and blend modes to create a luminous experience as you scroll.
+                        </p>
+                        <div class="light-effect"></div>
+                    </div>
+                    <div class="content-card">
+                        <div class="card-icon">
+                            <i class="fas fa-palette"></i>
+                        </div>
+                        <h3>Visual Appeal</h3>
+                        <p>The lighting effects create depth and highlight content in an engaging, interactive way.</p>
+                        <div class="light-effect"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Gallery Section -->
+        <section id="gallery" class="section gallery">
+            <div class="container">
+                <h2 class="section-title">Light Gallery</h2>
+                <p class="section-subtitle">Scroll to see the light effects in action</p>
+
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="item-content">
+                            <h3>Morning Glow</h3>
+                            <p>A warm, gentle light effect simulating sunrise.</p>
+                        </div>
+                        <div class="item-light morning-light"></div>
+                    </div>
+
+                    <div class="gallery-item">
+                        <div class="item-content">
+                            <h3>Neon Pulse</h3>
+                            <p>Vibrant neon glow with a subtle pulsing effect.</p>
+                        </div>
+                        <div class="item-light neon-light"></div>
+                    </div>
+
+                    <div class="gallery-item">
+                        <div class="item-content">
+                            <h3>Moonbeam</h3>
+                            <p>Cool, serene light resembling moonlight.</p>
+                        </div>
+                        <div class="item-light moon-light"></div>
+                    </div>
+
+                    <div class="gallery-item">
+                        <div class="item-content">
+                            <h3>Fire Glow</h3>
+                            <p>Flickering warm light like a cozy fireplace.</p>
+                        </div>
+                        <div class="item-light fire-light"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="section contact">
+            <div class="container">
+                <h2 class="section-title">Get in Touch</h2>
+                <div class="contact-content">
+                    <div class="contact-info">
+                        <h3>Connect with the Light</h3>
+                        <p>This project demonstrates how pure CSS can create engaging visual effects that respond to
+                            user scrolling.</p>
+                        <div class="contact-details">
+                            <p><i class="fas fa-code"></i> Built with HTML & CSS only</p>
+                            <p><i class="fas fa-lightbulb"></i> No JavaScript required</p>
+                            <p><i class="fas fa-desktop"></i> Responsive design</p>
+                        </div>
+                    </div>
+                    <div class="contact-form">
+                        <h3>Share Your Thoughts</h3>
+                        <form id="contactForm">
+                            <input type="text" placeholder="Your Name" required>
+                            <input type="email" placeholder="Your Email" required>
+                            <textarea placeholder="Your Message" rows="4" required></textarea>
+                            <button type="submit">Send Message <i class="fas fa-paper-plane"></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>Scroll with Light Effect &copy; 2026 | CSS Only Project</p>
+            <div class="footer-links">
+                <a href="#"><i class="fab fa-github"></i> GitHub</a>
+                <a href="#"><i class="fab fa-linkedin-in"></i> LinkedIn</a>
+                <a href="#"><i class="fas fa-code"></i> VS Code</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scroll progress indicator -->
+    <div class="scroll-progress">
+        <div class="progress-bar"></div>
+    </div>
+</body>
+
+</html>
