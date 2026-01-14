@@ -5,14 +5,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-100%25-orange?style=for-the-badge&logo=css3)
 ![No JavaScript](https://img.shields.io/badge/JavaScript-0%25-red?style=for-the-badge&logo=javascript)
 ![Responsive](https://img.shields.io/badge/Responsive-✅-green?style=for-the-badge&logo=responsive)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 A stunning visual experience created with pure HTML and CSS. Dynamic light effects that respond to scrolling, hover interactions, and animations - all without JavaScript!
 
-[![Live Demo](https://img.shields.io/badge/🟢_Live_Demo-Click_Here-9cf?style=for-the-badge)](https://neosourav24.github.io/scroll-with-light-css/)
 [![View Code](https://img.shields.io/badge/📁_View_Code-GitHub-black?style=for-the-badge)](https://github.com/neoSourav24/scroll-with-light-css)
-
-![Preview](https://via.placeholder.com/800x400/0a192f/64ffda?text=Scroll+with+Light+Effect+Preview)
 
 </div>
 
@@ -84,4 +80,5 @@ Email: hacrrr.white37@gmail.com
 <div align="center"> Made with ❤️ using VS Code | CSS Only Magic </div>
 
 #
+
 
