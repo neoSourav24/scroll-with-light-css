@@ -2,7 +2,8 @@
 
 <div align="center">
   
-![CSS3](https://img.shields.io/badge/CSS3-100%25-orange?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-20.6%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-79.4%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![No JavaScript](https://img.shields.io/badge/JavaScript-0%25-red?style=for-the-badge&logo=javascript)
 ![Responsive](https://img.shields.io/badge/Responsive-✅-green?style=for-the-badge&logo=responsive)
 
@@ -78,6 +79,7 @@ GitHub: https://github.com/neoSourav24
 Email: hacrrr.white37@gmail.com
 
 <div align="center"> Made with ❤️ using VS Code | CSS Only Magic </div>
+
 
 
 
