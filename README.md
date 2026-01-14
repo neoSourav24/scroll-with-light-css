@@ -16,9 +16,6 @@ A stunning visual experience created with pure HTML and CSS. Dynamic light effec
 
 </div>
 
-## 🎥 Demo Video
-[![YouTube Demo](https://img.shields.io/badge/▶️_Watch_Video-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/your-demo-video)
-
 ---
 
 ## ✨ Features
@@ -87,3 +84,4 @@ Email: hacrrr.white37@gmail.com
 <div align="center"> Made with ❤️ using VS Code | CSS Only Magic </div>
 
 #
+
